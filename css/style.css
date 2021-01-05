@@ -1,0 +1,112 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: aliceblue;
+}
+
+.corpo {
+  margin-top: 5px;
+  margin-bottom: 30px;
+  width: 90%;
+  margin-left: 5%;
+  background-color: white;
+  -webkit-box-shadow: 10px 10px 17px -8px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 10px 10px 17px -8px rgba(0, 0, 0, 0.5);
+  box-shadow: 10px 10px 17px -8px rgba(0, 0, 0, 0.5);
+  border-radius: 5px;
+  float: left;
+  min-height: 280px;
+}
+
+.funcoes {
+  width: 280px;
+  border-radius: 5px;
+}
+
+.justify {
+  text-align: justify;
+}
+
+.metade {
+  width: 50%;
+  float: left;
+  padding: 15px;
+  text-align: center;
+}
+.margin {
+  margin: 15px;
+}
+#marginTop {
+  margin: 25px;
+}
+
+#titulo {
+  text-align: center;
+  font-family: Snell Roundhand, cursive;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+#img {
+  width: 500px;
+}
+
+#boneco1 {
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#boneco2 {
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#boneco3 {
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  position: relative;
+}
+
+#boneco4 {
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  position: relative;
+}
+
+#boneco5 {
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  position: relative;
+}
+
+#boneco7 {
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  position: relative;
+}
+
+.cor {
+  background-color: teal;
+}
+
+#list {
+  width: 350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
